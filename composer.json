@@ -1,16 +1,10 @@
 {
-    "name"        : "lyrixx/Silex-Kitchen-Edition",
+    "name"        : "BitLucid/Silex-Kitchen-Edition",
     "type"        : "library",
-    "description" : "A Silex Edition. This project is a base for your silex applications.",
+    "description" : "A simple mirror of silex kitchen edition, usable as a testing base for new silex applications.",
     "keywords"    : ["framework"],
-    "homepage"    : "http://lyrixx.github.com/Silex-Kitchen-Edition/",
+    "homepage"    : "http://bitlucid.com",
     "license"     : "MIT",
-    "authors"     : [
-        {
-            "name"  : "Grégoire Pineau",
-            "email" : "lyrixx@lyrixx.info"
-        }
-    ],
     "require": {
         "doctrine/dbal"         : "~2.3",
         "kriswallsmith/assetic" : "~1.1",
